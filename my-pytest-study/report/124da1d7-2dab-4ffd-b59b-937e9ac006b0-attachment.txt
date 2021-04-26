@@ -1,0 +1,7 @@
+
+ setup_module:整个模块开始前执行一次
+
+ setup_function:每个不在类中的函数开始前执行
+正在执行测试模块-----test_one
+
+ teardown_function:每个不在类中的函数结束后执行

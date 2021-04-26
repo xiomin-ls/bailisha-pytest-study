@@ -1,0 +1,12 @@
+
+ setup_class:在类开始前执行
+
+ setup_method:每个方法开始前执行
+
+ setup:每个用例开始前都会执行
+
+ 正在执行测试类-----test_three
+
+ teardown:每个用例结束后都会执行
+
+ teardown_method:每个方法结束后执行
